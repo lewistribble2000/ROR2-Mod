@@ -1,6 +1,6 @@
 # ROR2-Mod
 
-#Hopoo Game's stance on the writing, sharing and development of mods for their game.
+## Hopoo Game's stance on the writing, sharing and development of mods for their game.
 https://store.steampowered.com/news/app/632360/view/5318144626921363501
 
 >It's no secret that Risk of Rain 2 has fostered an absolutely awesome modding community. While we have no direct mod support, our intent is to avoid breaking mods with >our updates, and to not do any changes that would hamper the community. Maybe you'll see us popping into the modding community in the future!
